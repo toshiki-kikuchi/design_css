@@ -1,0 +1,31 @@
+//やっぱり、フォントも、レイアウト系と、デザイン系を分けたほうがよい
+
+.h-main-text{
+	color:#fff;
+	font-size:36px;
+	font-weight:100;
+	font-family:$mainFontFamily;
+	text-align:center;
+	padding-top:240px;
+}
+
+.h-sub-text{
+	color:$mainFontColor;
+	font-size:36px;
+	font-weight:100;
+	font-family:$mainFontFamily;
+	text-align:center;//st
+	padding-top:80px;//st
+}
+
+.common-text{
+	color:$mainFontColor;
+	font-size:16px;
+	font-weight:100;
+	font-family:$mainFontFamily;
+	text-align:center;
+}
+
+.footer-text{
+	line-height:40px;
+}

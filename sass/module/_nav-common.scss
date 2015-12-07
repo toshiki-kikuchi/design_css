@@ -1,0 +1,23 @@
+.nav-common{
+	width:100%;
+	height:80px;
+	background:#fff;
+	position:fixed;	
+	border-bottom:1px solid #ccc;
+}
+
+.nav-list{
+	height:80px;
+	line-height:80px;
+	margin-left:20px;
+	display:inline-block;
+	//background:#ccc;
+	//float:left;
+}
+
+.nav-list-frimary{
+	color:$mainFontColor;
+	font-size:$mainFontSize;
+	font-family:$mainFontFamily;
+}
+
